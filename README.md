@@ -10,5 +10,5 @@ I'm currently code and study about Python, CSS&HTML, JavaScript and maybe someda
    ### learning
        - Java
        - C
-       
-![Ablogistic's github stats](https://github-readme-stats.vercel.app/api?JuneKim0712=anuraghazra&show_icons=true&theme=radical)
+
+[![Ablogistic's github stats](https://github-readme-stats.vercel.app/api?username=JuneKim0712&show_icons=true&them=dracula)](https://github.com/anuraghazra/github-readme-stats)
