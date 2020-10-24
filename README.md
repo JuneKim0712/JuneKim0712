@@ -7,7 +7,7 @@ I'm currently code and study about Python, CSS&HTML, JavaScript and maybe someda
        - Python
        - CSS&HTML
        - JavaScript
-   ### learning
+   ### learning in
        - Java
        - C
 
