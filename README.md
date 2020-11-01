@@ -8,10 +8,9 @@ I'm currently code and study about Python, CSS&HTML, JavaScript and maybe someda
 
 > ## Profcient
 >  - Python
->  - CSS&HTML
->  - JavaScript
+>  - JavaScript (and CSS&HTML)
 >
->  ## Learning
+>  ## mabye sometime
 >  - Java
 >  - C
 
