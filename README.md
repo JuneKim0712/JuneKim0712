@@ -6,11 +6,11 @@ I'm currently code and study about Python, CSS&HTML, JavaScript and maybe someda
 
 # Languages
 
-> ## Profcient
+> ## Learning
 >  - Python
 >  - JavaScript (and CSS&HTML)
 >
->  ## mabye sometime
+>  ## Mabye
 >  - Java
 >  - C
 
