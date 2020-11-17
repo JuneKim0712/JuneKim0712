@@ -15,4 +15,4 @@ I'm currently code and study about Python, CSS&HTML, JavaScript and maybe someda
 >  - C
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuneKim0712)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuneKim0712&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
