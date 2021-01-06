@@ -1,12 +1,12 @@
 # Intro
 
-Hello! This is June Kim from United states of america, California.
+Hello! This is June Kim.
 
-I'm currently code and study about Python, CSS&HTML, JavaScript and maybe someday I will do Java and C as well.
+I'm currently coding for hobby and use coding language of Python, CSS&HTML, JavaScript and maybe someday I will learn Java and C as well.
 
 # Languages
 
-> ## Learning
+> ## Currently use and Learning
 >  - Python
 >  - JavaScript (and CSS&HTML)
 >
