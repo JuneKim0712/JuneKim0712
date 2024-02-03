@@ -2,7 +2,7 @@
 
 Hello! This is June Kim.
 
-I'm currently coding as a hobby and use the coding languages of Python, Java and JavaScript, and maybe someday I will learn Matlab and C as well.
+I'm currently coding as a hobby and use the coding languages of Python, Java, C++, and JavaScript, and maybe someday I will learn Matlab and C as well.
 
 # Languages
 
@@ -10,7 +10,8 @@ I'm currently coding as a hobby and use the coding languages of Python, Java and
 >  - Python
 >  - JavaScript (and CSS&HTML)
 >  - Java
->  ## Mabye
+>  - C++
+>  ## Maybe
 >  - C
 >  - Matlab
 
