@@ -1,19 +1,20 @@
 # Intro
 
-Hello! This is June Kim.
+Hello! My name is Junwoo (June) Kim.
 
-I'm currently coding as a hobby and use the coding languages of Python, Java, C++, and JavaScript, and maybe someday I will learn Matlab and C as well.
+I'm a rising junior at Redwood High School, and I am interested in using machine learning to improve teaching and accessibility. 
+I took an interest in this due to people I met new people in the field of AI, who were passionate people interested in how AI is going change the world
+and how to apply them properly and promote diversity.
+
+If you have any questions, contact me on LinkedIn or at junwoo.kim071212@gmail.com!
 
 # Languages
 
-> ## Currently use and Learning
->  - Python
->  - JavaScript (and CSS&HTML)
->  - Java
->  - C++
->  ## Maybe
->  - C
->  - Matlab
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuneKim0712&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+## Proficient!
+- Python
+- JavaScript (and CSS&HTML)
+- C++
+- Matlab
+## Learning!
+- C
+- Java
