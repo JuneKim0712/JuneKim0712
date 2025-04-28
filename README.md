@@ -17,8 +17,9 @@ If you have any questions, contact me on LinkedIn or at junwoo.kim071212@gmail.c
 - JavaScript (Typescript)
 - C++
 - Matlab
+- Java
 ## Learning!
 - C
-- Java
+- C#
 - R
 - Go
