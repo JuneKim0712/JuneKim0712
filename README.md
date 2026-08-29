@@ -2,7 +2,7 @@
 
 Hello! My name is Junwoo (June) Kim.
 
-I'm a rising junior at Redwood High School, and I am interested in using machine learning to improve teaching and accessibility. 
+I'm a computer science major at UC Berkeley, and I am interested in using machine learning to improve teaching and accessibility. 
 I took an interest in this due to people I met new people in the field of AI, who were passionate people interested in how AI is going change the world
 and how to apply them properly and promote diversity.
 
