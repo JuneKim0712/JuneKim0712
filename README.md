@@ -8,7 +8,7 @@ and how to apply it properly and promote diversity.
 
 Although I can't show a major project that I worked on publicly on GitHub, I am currently working on a project with @Calsol on testbench and @baduklab on the application of AI in baduk.
 
-If you have any questions, contact me on LinkedIn or at junwoo.kim071212@gmail.com!
+If you have any questions, contact me on [LinkedIn](https://www.linkedin.com/in/junekim0712) or at junwoo.kim071212@gmail.com!
 
 # Languages
 
