@@ -3,10 +3,10 @@
 Hello! My name is Junwoo (June) Kim.
 
 I'm a computer science major at UC Berkeley, and I am interested in using machine learning to improve teaching and accessibility. 
-I took an interest in this due to people I met new people in the field of AI, who were passionate people interested in how AI is going change the world
-and how to apply them properly and promote diversity.
+I took an interest in this because I met new people in the field of AI, who were passionate people interested in how AI is going change the world
+and how to apply it properly and promote diversity.
 
-Although there isn't much major project that I could show public on GitHub, I am currently working on a project with @FNLHub and @cosgiant on AI applicaiton.
+Although I can't show a major project that I worked on publicly on GitHub, I am currently working on a project with @Calsol on testbench and @baduklab on the application of AI in baduk.
 
 If you have any questions, contact me on LinkedIn or at junwoo.kim071212@gmail.com!
 
@@ -14,12 +14,12 @@ If you have any questions, contact me on LinkedIn or at junwoo.kim071212@gmail.c
 
 ## Proficient!
 - Python
-- JavaScript (Typescript)
-- C++
+- JavaScript (TypeScript)
+- C/C++
 - Matlab
 - Java
 ## Learning!
-- C
 - C#
 - R
 - Go
+- Rust
